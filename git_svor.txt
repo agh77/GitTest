@@ -1,0 +1,2 @@
+git_svor.txt
+"Git questions and answers"
